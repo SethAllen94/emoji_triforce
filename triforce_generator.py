@@ -5,8 +5,8 @@ smiley_face = ("\U0001f600")
 
 #Welcome message
 print("Welcome to the Emoji Triforce generator!\n"
-          "Please enter the desired height (lines of emojis) of your Triforce.\n"
-          "Odd heights are not possible and are automatically rounded up.\n")
+      "Please enter the desired height (lines of emojis) of your Triforce.\n"
+      "Odd heights are not possible and are automatically rounded up.\n")
 
 run = True
 while run:
