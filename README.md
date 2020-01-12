@@ -1,2 +1,2 @@
 # emoji_triforce
-Simple script to generate a Triforce in the command line.
+Simple Python 3 script to generate a Triforce in the command line.
